@@ -20,12 +20,12 @@
 
 ### Let me tell you a bit about myself 🙋🏻‍♀️
 
-🌱 Building products that combine clean design, scalable architecture, and great user experiences.
-💻 Full Stack Developer specializing in **React, Next.js, Node.js, MongoDB, and modern web technologies**.
-🚀 Exploring **AI, system design, cloud computing, and software engineering**.
-🔭 Previously worked as a **Cybersecurity Intern @ CERT-In**, where I gained experience in security operations and automation.
-🤝 Always excited to collaborate on innovative software projects and open-source contributions.
-📫 Reach me at **rishitadixit02@gmail.com**
+- 🌱 Building products that combine clean design, scalable architecture, and great user experiences.
+- 💻 Full Stack Developer specializing in **React, Next.js, Node.js, MongoDB, and modern web technologies**.
+- 🚀 Exploring **AI, system design, cloud computing, and software engineering**.
+- 🔭 Previously worked as a **Cybersecurity Intern @ CERT-In**, where I gained experience in security operations and automation.
+- 🤝 Always excited to collaborate on innovative software projects and open-source contributions.
+- 📫 Reach me at **rishitadixit02@gmail.com**
 
 <br>
 
