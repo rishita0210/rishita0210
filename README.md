@@ -30,7 +30,7 @@
 - 💻 Passionate about building scalable **Full Stack Applications** with React, Next.js, Node.js, and MongoDB
 - 🤖 Interested in **Machine Learning, Generative AI, Computer Vision, and Intelligent Software Systems**
 - 🚀 Love building products that combine **great design, smooth user experience, and clean engineering**
-- 🤝 Open to collaborating on **Full Stack, AI/ML, and Open Source Projects**
+- 🤝 Open to collaborate on **Full Stack, AI/ML, and Open Source Projects**
 - 💬 Ask me about **React, Next.js, JavaScript, Python, or AI**
 - 📫 Reach me at **rishitadixit02@gmail.com**
 - ⚡ I enjoy turning ideas into polished products with thoughtful design and delightful user experiences.
