@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Rishita Dixit 👋🌸
+# Hi there, I'm Rishita Dixit 👋
 
 ### Full Stack Developer • Software Engineer • AI/ML Enthusiast
 
