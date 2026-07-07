@@ -1,34 +1,30 @@
 <div align="center">
 
-# Hi there, I'm Rishita Dixit 👋
+  <h2>Hi there, I'm Rishita Dixit 👋</h2>
+  <p><em>Full Stack Developer • Software Engineer • AI/ML Enthusiast</em></p>
 
-### Full Stack Developer • Software Engineer • AI/ML Enthusiast
+  <img src="https://komarev.com/ghpvc/?username=rishita0210&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views"/>
+  
+  <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=rishita0210&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views"/>
-
-<br>
-
-<a href="https://rishitaportfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-F4C2C2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/rishita-dixit-6588a3264">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:rishitadixit02@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/rishita0210">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+  <a href="https://rishitaportfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-F4C2C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rishita-dixit-6588a3264">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rishitadixit02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/rishita0210">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 
 </div>
 
----
+<br>
 
-# 🌸 About Me
+### 🌸 About Me
 
 - 🌱 Currently exploring **LLMs, RAG Systems, NLP, and modern AI applications**
 - 💻 Passionate about building scalable **Full Stack Applications** with React, Next.js, Node.js, and MongoDB
@@ -39,44 +35,33 @@
 - 📫 Reach me at **rishitadixit02@gmail.com**
 - ⚡ I enjoy turning ideas into polished products with thoughtful design and delightful user experiences.
 
----
+<br>
 
-# 🚀 Tech Stack
+### 🚀 Tech Stack
 
-### 👩‍💻 Languages
-
-<p>
+#### 👩‍💻 Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,sql,solidity"/>
-</p>
 
-### 🎨 Frontend
+<br>
 
-<p>
+#### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
-</p>
 
+<br>
 
-### ⚙️ Backend & Database
-
-<p>
+#### ⚙️ Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
-</p>
 
----
+<br>
 
-### ☁️ Tools & Platforms
-
-<p>
+#### ☁️ Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,aws,postman"/>
-</p>
 
----
-
+<br><br>
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-*"Building software that is scalable, intuitive, and impactful."*
+  <h4>⭐ Thanks for visiting my profile!</h4>
+  <p><i>"Building software that is scalable, intuitive, and impactful."</i></p>
 
 </div>
