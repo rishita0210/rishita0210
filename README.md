@@ -55,32 +55,12 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
 </p>
 
-**Also worked with**
-
-- GSAP
-- Framer Motion
-
----
 
 ### ⚙️ Backend & Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
 </p>
-
----
-
-### 🤖 AI / ML
-
-- Machine Learning
-- NLP
-- RAG
-- LLM Applications
-- TensorFlow
-- Scikit-Learn
-- OpenCV
-- Pandas
-- NumPy
 
 ---
 
@@ -92,62 +72,6 @@
 
 ---
 
-# 🌟 Featured Projects
-
-### 👟 Merraki — Punjabi Jutti E-Commerce
-
-🛒 Production-ready e-commerce platform built with **Next.js** and **MongoDB**
-
----
-
-### 🚚 Jain Logistics
-
-Animated logistics website featuring **GSAP animations**, blogs, and responsive UI
-
----
-
-### 🤖 Autonomous SOC Agent
-
-AI-powered security automation using **LLMs** and modern AI workflows
-
----
-
-### 🧠 NLP & RAG Applications
-
-Built intelligent document-aware applications using Retrieval-Augmented Generation and NLP techniques.
-
----
-
-### ⛓ Blockchain Student ID System
-
-Blockchain-based academic verification system using **Solidity**, **Hardhat**, and **React**
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rishita0210&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rishita0210&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-
-
----
-
-# 🌱 Currently Learning
-
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Advanced NLP
-- System Design
-- Cloud Computing
-- AI Agents
-
----
 
 <div align="center">
 
